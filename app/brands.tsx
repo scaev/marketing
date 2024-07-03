@@ -64,7 +64,7 @@ const Brands = () => {
             font.className
           )}
         >
-          &quot;USN'in bizim için yaptıkları sayesinde neredeyse bir düzine farklı araçtan kurtulduk.&quot;
+          &quot;USN&apos;in bizim için yaptıkları sayesinde neredeyse bir düzine farklı araçtan kurtulduk.&quot;
         </div>
 
         <div className="items-center flex justify-center flex-col text-white">

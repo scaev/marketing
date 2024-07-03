@@ -142,7 +142,7 @@ export default function ContactForm() {
                     "
           >
             
-Gelin, USN'in ekibinizin daha verimli çalışmasına nasıl yardımcı olabileceğini konuşalım.
+Gelin, USN&apos;in ekibinizin daha verimli çalışmasına nasıl yardımcı olabileceğini konuşalım.
           </div>
 
           <div className="bg-[#f6f5f4] md:w-4/5 space-y-6 p-4 rounded-2xl my-4 hidden md:flex md:flex-col">
@@ -300,7 +300,7 @@ Gelin, USN'in ekibinizin daha verimli çalışmasına nasıl yardımcı olabilec
                       <SelectContent>
                         <div className="flex gap-4">
                           <SelectItem value="Evaluate Bird for my company">
-                          USN'yi şirketim için analiz edin
+                          USN&apos;yi şirketim için analiz edin
                           </SelectItem>
                         </div>
                         <SelectItem value="Learn More">Daha fazla öğren</SelectItem>
@@ -341,7 +341,7 @@ Gelin, USN'in ekibinizin daha verimli çalışmasına nasıl yardımcı olabilec
                   />
                 </div>
                 <div className="text-xs font-light  md:w-3/4 mb-1 bg-clip-text text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400">
-                USN'in USN ile ilgili pazarlama iletişimlerini göndermesini kabul ediyorum.
+                USN&apos;in USN ile ilgili pazarlama iletişimlerini göndermesini kabul ediyorum.
                 </div>
               </div>
 
