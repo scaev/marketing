@@ -36,12 +36,11 @@ const Brands = () => {
       <div className=" p-4   mx-auto relative z-10  w-full pt-20 md:pt-32">
         <div className="text-4xl md:pb-8 md:text-7xl text-center 
         bg-clip-text text-transparent bg-gradient-to-b from-purple-500 to-sky-200 bg-opacity-50">
-          The best brands <br /> choose us
+          Çalıştığımız markalardan <br /> bazıları
         </div>
 
         <p className="mt-4 text-lg font-normal  text-neutral-300 max-w-lg text-center mx-auto">
-          From small businesses to large corporations, we have helped many
-          brands elevate their business.
+        Küçük işletmelerden büyük şirketlere kadar birçok markanın işlerini yükseltmelerine yardımcı olduk.
         </p>
 
         <div className="grid grid-cols-3  items-center justify-center  mx-auto md:w-3/5 cursor-pointer">
@@ -65,8 +64,7 @@ const Brands = () => {
             font.className
           )}
         >
-          &quot;We got rid of nearly a dozen different tools because of what
-          Bird does for us.&quot;
+          &quot;USN'in bizim için yaptıkları sayesinde neredeyse bir düzine farklı araçtan kurtulduk.&quot;
         </div>
 
         <div className="items-center flex justify-center flex-col text-white">
@@ -79,8 +77,8 @@ const Brands = () => {
           />
 
           <div className=" text-center">
-            <div className="text-sm  font-medium pt-4">Carlos Hernandez</div>
-            <div className="text-sm">Marketing Director, Palium Software</div>
+            <div className="text-sm  font-medium pt-4">Eyüp S.</div>
+            <div className="text-sm">CEO, MiniKlima</div>
           </div>
         </div>
       </div>

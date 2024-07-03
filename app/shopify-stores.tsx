@@ -5,21 +5,21 @@ import Image from "next/image";
 const stores = [
   {
     image: "/images/image2.png",
-    quote: "Oyuncakçın, 2.5 ayda 1 milyon TL ciro ile başarıya ulaştı. Bu, pazarlama stratejilerimizin ve müşteri odaklı yaklaşımımızın etkinliğini kanıtlıyor.",
+    quote: "Oyuncakcın, 2.5 ayda 1 milyon TL ciro ile başarıya ulaştı. Bu, pazarlama stratejilerimizin ve müşteri odaklı yaklaşımımızın etkinliğini kanıtlıyor.",
     name: "USN",
   },
   {
     image: "/images/shop-2.jpeg",
     quote:
-      "We had no idea how to get started, but Bird showed us the way. And we were able to create something amazing.",
-    name: "John Prency",
+      "Yönettiğimiz markalardan biri ilk 7. gününde 1 gün içinde 35bin TL ciro yaptı.",
+    name: "USN",
   },
 
   {
     image: "/images/s-2.webp",
     quote:
-      "The team at Bird is amazing. They helped us create a stunning store that we are proud of.",
-    name: "Miguel Martinez",
+      "USN ekibi harika. Bize gurur duyduğumuz muhteşem bir mağaza yaratmamızda yardımcı oldular.",
+    name: "Halil D.",
   },
 ];
 
