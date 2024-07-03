@@ -11,44 +11,44 @@ export function CardHoverEffectDemo() {
 export const projects = [
     {
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiMonitor className="w-8 h-8 text-blue-600" /></div>,
-        title: "Website Design",
+        title: "Web Sitesi Tasarımı",
         description:
-          "We build fully responsive websites that look great on all devices. Our websites are designed to convert visitors into customers.",
+          "Tüm cihazlarda harika görünen tam yanıt verebilen web siteleri inşa ediyoruz. Web sitelerimiz, ziyaretçileri müşterilere dönüştürmek için tasarlanmıştır.",
       
       },
       {
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiStorefront className="w-8 h-8 text-blue-600" /></div>,
-        title: "E-commerce Store",
+        title: "E-ticaret Mağazası",
         description:
-          "From small stores to large online retailers, we have the expertise to build a store that will help you grow your business.",
+          "Küçük dükkanlardan büyük çevrimiçi perakendecilere kadar, işinizi büyütmenize yardımcı olacak mağaza inşa etme konusunda uzmanlığa sahibiz.",
        
       },
       {
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiLock className="w-8 h-8 text-blue-600" /></div>,
-        title: "Authentication",
+        title: "Reklam & Marka Mentorluğu",
         description:
-          "Secure authentication solutions for your website or app. We use the latest technology to keep your data safe.",
+          "Markanızı ve reklam stratejilerinizi optimize ederek pazarda öne çıkmanızı sağlıyoruz. Uzman ekibimizle kişiye özel çözümler sunuyoruz.",
       
       },
       {
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiMegaphone className="w-8 h-8 text-blue-600" /></div>,
-        title: "Social Media",
+        title: "Sosyal Medya",
         description:
-          "We offer social media management and ad creation services. We can help you grow your social media presence and reach new customers.",
+          "Sosyal medya yönetimi ve reklam oluşturma hizmetleri sunuyoruz. Sosyal medya varlığınızı büyütmenize ve yeni müşteriler kazanmanıza yardımcı olabiliriz.",
       
       },
       {
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiAppStoreLogo className="w-8 h-8 text-blue-600" /></div>,
-        title: "App Development",
+        title: "Reklam Yönetimi",
         description:
-          "We build custom mobile apps for iOS and Android. Our apps are designed to be user-friendly and performant.",
+          "Çeşitli platformlarda reklam hesaplarınızın yönetimini üstleniyoruz. Stratejik reklam kampanyaları ile markanızın görünürlüğünü artırıyor ve hedef kitleye ulaşmanızı sağlıyoruz.",
       
       },
       {
         icon : <div className="bg-blue-100 p-4 rounded-full"><PiHeadsetFill className="w-8 h-8 text-blue-600" /></div>,
-        title: "Support",
+        title: "Destek",
         description:
-          "We offer support for all our clients. We are here to help you with any issues or questions you may have.",
+          "Tüm müşterilerimiz için destek sunuyoruz. Herhangi bir sorun veya sorunuzla ilgilenmek için buradayız.",
      
       },
 ];

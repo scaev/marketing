@@ -41,7 +41,7 @@ const Navbar = ({
               priority
               src="/logo/logo.svg"
               alt="Logo"
-              width={100}
+              width={10}
               height={100}
               className="w-10 h-10 md:w-14 md:h-14"
             />
@@ -56,21 +56,21 @@ const Navbar = ({
               to bg-neutral-400 bg-opacity-50"
         >
           <div onClick={scrollToWebsiteDesign} className="hover:text-gray-50">
-            Website Design
+            Website Tasarımı
           </div>
           <div onClick={scrollToGraphicDesign} className="hover:text-gray-50">
-            Graphic Design
+            Grafik Dizayn
           </div>
 
           <div onClick={scrollToShopifyStores} className="hover:text-gray-50">
-            Shopify Stores
+            Shopify Mağazaları
           </div>
           <div onClick={scrollToBrands} className="hover:text-gray-50">
-            Brands
+            Markalar
           </div>
 
           <Link href="/pricing" className="hover:text-gray-50">
-            Pricing
+            Ücretlendirme
           </Link>
         </div>
 
@@ -107,7 +107,7 @@ const Navbar = ({
 
             "
           >
-            Contact
+            İletişim
           </Link>
         </div>
       </div>
