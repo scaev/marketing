@@ -15,40 +15,62 @@ const FAQS = () => {
         ">
           <div className=" p-10 md:p-4 md:px-20">
             <div className="text-3xl md:text-7xl font-bold text-black">
-              Have questions ?
+              Sorularınız mı var ?
             </div>
             <div className="  font-semibold text-3xl md:text-6xl text-gradient bg-gradient-to-r from-emerald-600 to-blue-300 bg-clip-text text-transparent">
-              Get answers.
+              Harika! Tam da bunun için buradayız.
             </div>
             <Accordion type="single" collapsible>
     <AccordionItem value="item-1">
-      <AccordionTrigger>What is Bird?</AccordionTrigger>
+      <AccordionTrigger>Vizyonumuz</AccordionTrigger>
       <AccordionContent>
-        Bird is a full fledge marketing agency that specializes in branding, web design, and digital marketing.
+      Dünya çapında başarılı insanları bir araya getirerek, birlikte daha büyük başarılara ulaşmayı hedefleyen bir topluluk oluşturmak. Küresel ölçekte etki yaratacak projeler ve iş birlikleriyle, bireylerin ve organizasyonların potansiyellerini en üst seviyeye çıkarmak.
+
       </AccordionContent>
     </AccordionItem>
     <AccordionItem value="item-2">
-      <AccordionTrigger>How to start ?</AccordionTrigger>
+      <AccordionTrigger>
+Misyonumuz</AccordionTrigger>
       <AccordionContent>
-        You can start by contacting us. We will get back to you within 24 hours.
+      Küresel İş Birlikleri Kurmak: Dünya genelindeki başarılı bireyleri ve organizasyonları bir araya getirerek, ortak hedefler doğrultusunda sinerji yaratmak.
+
       </AccordionContent>
     </AccordionItem>
     <AccordionItem value="item-3">
       <AccordionTrigger>
-    Pricing ?
+      Markalaşma Bilincini Geliştirmek
       </AccordionTrigger>
       <AccordionContent>
-        We offer custom tailored solutions for your business. Contact us to get a quote.
+      Ülkemizde ve dünyada markalaşma bilincini artırarak, markaların değerlerini ve farkındalıklarını güçlendirmek.
+
         
       </AccordionContent>
     </AccordionItem>
   
     <AccordionItem value="item-4">
       <AccordionTrigger>
-    Support ?
+      İnovasyonu Desteklemek
         </AccordionTrigger>
       <AccordionContent>
-        We offer Monday-Friday support for all our clients.
+      Yenilikçi fikirlerin ve projelerin hayata geçirilmesine destek olarak, geleceğe yön veren çözümler üretmek.
+      </AccordionContent>
+            </AccordionItem>
+            
+            <AccordionItem value="item-4">
+      <AccordionTrigger>
+      Eğitim ve Mentorluk Sağlamak
+        </AccordionTrigger>
+      <AccordionContent>
+      Üyelerimize profesyonel gelişimlerine katkı sağlayacak eğitim programları ve mentorluk hizmetleri sunmak.
+      </AccordionContent>
+            </AccordionItem>
+            
+            <AccordionItem value="item-4">
+      <AccordionTrigger>
+      Sosyal Sorumluluk Projeleri
+        </AccordionTrigger>
+      <AccordionContent>
+      Topluma ve çevreye duyarlı projeler geliştirerek, sürdürülebilir bir dünya için çalışmak.
       </AccordionContent>
     </AccordionItem>
   </Accordion>

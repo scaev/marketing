@@ -5,8 +5,8 @@ import Image from "next/image";
 const stores = [
   {
     image: "/images/image2.png",
-    quote: "Bird showed us to get started, what to do, and how to do it.",
-    name: "Jason Scer",
+    quote: "Oyuncakçın, 2.5 ayda 1 milyon TL ciro ile başarıya ulaştı. Bu, pazarlama stratejilerimizin ve müşteri odaklı yaklaşımımızın etkinliğini kanıtlıyor.",
+    name: "USN",
   },
   {
     image: "/images/shop-2.jpeg",

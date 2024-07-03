@@ -18,31 +18,31 @@ export function InfiniteMovingCardsDemo() {
 const testimonials = [
   {
     quote:
-      "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-    name: "Charles Dickens",
-    title: "A Tale of Two Cities",
+      "Unity Success Network, işimizi gerçekten bir üst seviyeye taşıdı. Onların dijital pazarlama stratejileri sayesinde, müşteri tabanımızda %50'den fazla bir artış yaşadık. Ekibin profesyonelliği ve sürekli iletişimde kalmaları bize büyük güven verdi.",
+    name: "Ahmet K.",
+    title: "E-ticaret Şirket Sahibi",
   },
   {
     quote:
-      "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-    name: "William Shakespeare",
-    title: "Hamlet",
+      "Bu kadar kısa sürede böyle büyük bir dönüşüm yaşayabileceğimizi hiç düşünmemiştik. Unity Success Network'ün SEO ve sosyal medya yönetimi konusundaki uzmanlığı, markamızın bilinirliğini ve online görünürlüğünü inanılmaz derecede artırdı.",
+    name: "Selin D.",
+    title: "Moda Tasarımcısı",
   },
   {
-    quote: "All that we see or seem is but a dream within a dream.",
-    name: "Edgar Allan Poe",
-    title: "A Dream Within a Dream",
-  },
-  {
-    quote:
-      "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-    name: "Jane Austen",
-    title: "Pride and Prejudice",
+    quote: "Unity Success Network ile çalışmaya başlamadan önce dijital pazarlama konusunda oldukça kaygılıydık. Ancak, ilk kampanyamızdan itibaren sonuçlar harikaydı. Satışlarımızda %30'luk bir artış yaşadık ve bu sadece başlangıç!",
+    name: "Mehmet A.",
+    title: "Sağlık Ürünleri Üreticisi",
   },
   {
     quote:
-      "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-    name: "Herman Melville",
-    title: "Moby-Dick",
+      "Unity Success Network ile çalışmak, dijital pazarlama dünyasında bir dönüm noktası oldu. Ekibin bilgisi ve stratejik yaklaşımı, işletmemizin online varlığını inanılmaz derecede artırdı. Dünya çapında bilgi sahibi insanlarla çalıştığınızı gerçekten hissediyorsunuz. Her adımda yanınızda oldukları için minnettarım.",
+    name: "Emine G.",
+    title: "Güzellik Salonu Sahibi",
+  },
+  {
+    quote:
+      "Unity Success Network'ün pazarlama çözümleri, işletmemizi dijital dünyada ön plana çıkardı. Reklam kampanyalarımızın her adımında yanımızda oldular ve her zaman en iyi sonuçları elde etmemizi sağladılar. Onlarla çalışmak kesinlikle doğru bir karardı.",
+    name: "Cenk T.",
+    title: "Teknoloji Girişimcisi",
   },
 ];
